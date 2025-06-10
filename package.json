@@ -30,7 +30,7 @@
     "@types/body-parser": "^1.19.5",
     "@types/cors": "^2.8.17",
     "@types/express": "^5.0.0",
-    "@types/node": "^22.13.0",
+    "@types/node": "^24.0.0",
     "@types/yargs": "^17.0.33",
     "ts-node": "^10.9.2",
     "tsx": "^4.19.2",
